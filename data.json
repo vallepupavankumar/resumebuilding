@@ -1,0 +1,37 @@
+{
+  "basics":{
+    "photo":"download.jpg",
+    "name":"pavan kumar",
+    "email":"vaddepavankumar00@gmail.com",
+    "mobile":"9999999999"
+  },
+  "education":[
+   {
+     "course":"B.Tech(CSE)",
+     "college":[
+       "G.PULLAIAH COLLEGE OF ENGINEERING",
+       "2015-2019",
+       "70"
+     ]
+
+   },
+   {
+     "course":"diploma(cse)",
+     "college":[
+       "govt.polytechnic for minorties",
+       "2012-2015",
+       "70"
+     ]
+
+   },
+   {
+     "course":"ssc",
+     "college":[
+       "c.r.r.m.m.c high school",
+       "2012",
+       "75"
+     ]
+   }
+
+  ]
+}
